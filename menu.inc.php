@@ -1,9 +1,9 @@
 <nav>
     <ul>
-        <li><a href="#"> About my studies </a></li>
-        <li><a href="#"> My portfolio </a></li>
-        <li><a href="#"> My articles </a></li>
-        <li><a href="#"> Links </a></li>
-        <li><a href="#"> Contacts </a></li>
+        <li><a href="#"> Обо мне </a></li>
+        <li><a href="#"> Портфолио </a></li>
+        <li><a href="#"> Мои статьи </a></li>
+        <li><a href="#"> Ссылки </a></li>
+        <li><a href="#"> Контакты </a></li>
     </ul>
 </nav>
